@@ -1,0 +1,1 @@
+alert('you are on index.html');
